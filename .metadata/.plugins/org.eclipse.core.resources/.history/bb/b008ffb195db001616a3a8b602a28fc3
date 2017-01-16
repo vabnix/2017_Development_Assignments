@@ -1,0 +1,27 @@
+package com.vaibhav;
+
+import java.lang.reflect.Constructor;
+
+import com.vaibhav.javatraining.Olive;
+import com.vaibhav.javatraining.OliveNameEnum;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		Olive obj = new Olive(OliveNameEnum.INDIA, 0x00000);
+		
+		Class<?> classObj = obj.getClass();
+		
+		Constructor<?>[] constructor = classObj.getConstructors();
+		
+		System.out.println("Number of Constructor : " + constructor.length);
+		
+		if(constructor.length > 1) {
+			for(Constructor<?> constList: constructor) {
+				System.out.println(constList.getParameterTypes());
+			}
+		}
+		
+	}
+
+}

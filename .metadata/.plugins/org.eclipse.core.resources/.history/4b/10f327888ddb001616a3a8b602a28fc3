@@ -1,0 +1,29 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class Olive {
+
+	private OliveNameEnum oliveName;
+
+	public OliveNameEnum getOliveName() {
+		return oliveName;
+	}
+
+	public void setOliveName(OliveNameEnum oliveName) {
+		this.oliveName = oliveName;
+	}
+
+	public Olive(OliveNameEnum oliveName) {
+		this.oliveName = oliveName;
+	}
+	
+	public List<Olive> oliveList = new ArrayList<>();
+	
+	{
+		System.out.println("Initializing....");
+		oliveList = new ArrayList<>();
+		oliveList.add(new Olive(OliveNameEnum.INDIA));
+	}
+	
+	
+}

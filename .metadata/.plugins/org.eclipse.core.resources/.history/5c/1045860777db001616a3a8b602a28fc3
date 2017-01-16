@@ -1,0 +1,19 @@
+
+public class Olive {
+
+	private String oliveName;
+
+	public String getOliveName() {
+		return oliveName;
+	}
+
+	public void setOliveName(String oliveName) {
+		this.oliveName = oliveName;
+	}
+
+	public Olive(String oliveName) {
+		this.oliveName = oliveName;
+	}
+	
+	
+}
