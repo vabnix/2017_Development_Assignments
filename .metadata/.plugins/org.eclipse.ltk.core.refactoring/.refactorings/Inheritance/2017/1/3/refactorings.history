@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.vaibhav.javatraining.olives&apos; to &apos;HashSet/src&apos;&#x0A;- Original project: &apos;Inheritance&apos;&#x0A;- Destination element: &apos;HashSet/src&apos;&#x0A;- Original element: &apos;Inheritance/src/com.vaibhav.javatraining.olives&apos;" description="Copy package" destination="=HashSet/src" element1="/src&lt;com.vaibhav.javatraining.olives" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1484593121104" version="1.0"/>
+</session>
