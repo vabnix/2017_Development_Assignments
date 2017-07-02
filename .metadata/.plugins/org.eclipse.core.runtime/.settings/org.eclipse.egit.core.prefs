@@ -1,2 +1,4 @@
-GitRepositoriesView.GitDirectories=/Users/vaibhavsrivastava/GitHub/2017_Development_Assignments/.git\:
+GitRepositoriesView.GitDirectories=/Users/vaibhavsrivastava/GitHub/2017_Development_Assignments/.git\:/Users/vaibhavsrivastava/Documents/Development/pms-accounting-service/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:/Users/vaibhavsrivastava/Documents/Development/pms-accounting-service/.git\:
+core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

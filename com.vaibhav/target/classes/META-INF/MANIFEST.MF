@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.vaibhav
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vaibhavsrivastava
+Implementation-Vendor-Id: com.vaibhav.spring
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/com.vaibhav/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

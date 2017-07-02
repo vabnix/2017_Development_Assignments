@@ -1,8 +1,0 @@
-
-public enum OliveNameEnum {
-
-	INDIA,
-	LONDON,
-	DALLAS,
-	CANADA;
-}
